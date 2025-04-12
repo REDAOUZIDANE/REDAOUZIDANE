@@ -21,98 +21,76 @@
 | **[Cybersecurity: Malware Development](https://github.com/REDAOUZIDANE/MALWAR-DEV)** | Ever wonder how malware is born? 🦠 Forget the usual "defense-only" talk. Dive into my Malware Development Course, where we break down how attackers build their tools, so you can learn to stop them. | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly%20x86%20-%23F0F0F0?logo=assembly&logoColor=black) | [Course Link](https://github.com/REDAOUZIDANE/MALWAR-DEV) |
 | **[Data Science 101](https://github.com/REDAOUZIDANE/DATA-notes)** | A beginner-friendly course for mastering data analysis and machine learning techniques. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) | [Course Link](https://github.com/REDAOUZIDANE/DATA-notes) |
 
-# 🌟 My Certifications & Skills
+## 🎓 Certifications
 
-## Harvard University
-![Harvard Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/Harvard_University_logo.svg)  
+### <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" width="20" height="20"> Harvard University
 **CS50x: Introduction to Computer Science**  
-Date: **January 2025**  
-[Certification ID: 8cc45e67-7493-4d59-963b-38843590aec0](https://certificates.edx.org/)  
-Skills: Assembly Language · C · Python · Core Java · HTML · CSS · PHP · MySQL
+📅 January 2025 | 🆔 `8cc45e67-7493-4d59-963b-38843590aec0`  
+💻 **Skills:** Assembly Language · C · Python · Core Java · HTML · CSS · PHP · MySQL
 
----
-
-## TryHackMe Certifications
-![TryHackMe Logo](https://tryhackme.com/favicon.ico)
-
+### <img src="https://tryhackme.com/img/favicon.png" width="20" height="20"> TryHackMe
 **Jr Penetration Tester**  
-Date: **July 2024**  
-[Certification ID](https://tryhackme.com/r/p/OUZIDANEREDA)  
-Skills: Penetration Testing, Reverse Engineering
+📅 July 2024  
+🔒 **Skills:** Penetration Testing, Reverse Engineering
 
 **Offensive Pentesting**  
-Date: **June 2024**  
-[Certification ID](https://tryhackme.com/r/p/OUZIDANEREDA)  
-Skills: Offensive Security Techniques, Pentesting
+📅 June 2024  
+⚔️ **Skills:** Offensive Security Techniques, Pentesting
 
 **Red-Team**  
-Date: **June 2024**  
-[Certification ID](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WKTSOABFRJ.pdf)  
-Skills: Penetration Testing, Reverse Engineering
+📅 June 2024  
+🛡️ **Skills:** Penetration Testing, Reverse Engineering
 
----
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png" width="20" height="20"> IBM
+**Data Science Professional Certificate**  
+📅 January 2024  
+📊 **Skills:** Machine Learning, Data Analysis, Data Visualization
 
-## IBM - Data Science
-![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/e/eb/IBM_logo.svg)  
-**Data Science**  
-Date: **January 2024**  
-Skills: Machine Learning, Data Analysis, Data Visualization, Data Science
-
----
-
-## Cisco Certifications
-![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/Cisco_logo.svg)  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/2560px-Cisco_logo_blue_2016.svg.png" width="20" height="20"> Cisco
 **Ethical Hacker**  
-Date: **January 2024**  
-Skills: Penetration Testing
+📅 January 2024  
+🕵️ **Skills:** Penetration Testing
 
 **Junior Cybersecurity Analyst Career Path**  
-Date: **January 2024**  
+📅 January 2024
 
----
-
-## EC-Council Certification
-![EC-Council Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/EC-Council_logo.svg)  
+### <img src="https://www.eccouncil.org/wp-content/uploads/2022/05/EC-Council-Logo.png" width="20" height="20"> EC-Council
 **Ethical Hacking Essentials (EHE)**  
-Date: **January 2024**  
-Skills: Ethical Hacking, Cybersecurity
+📅 January 2024  
+🔐 **Skills:** Ethical Hacking, Cybersecurity
 
----
+### <img src="https://www.hackthebox.com/images/favicon-32x32.png" width="20" height="20"> Hack The Box
+- **AD Enumeration & Attacks**
+- **API Penetration Testing**
+- **Attacking Common Applications**
+- **Web Attacks**
+- **Windows Privilege Escalation**
 
-## Hack The Box Certifications
-![Hack The Box Logo](https://upload.wikimedia.org/wikipedia/commons/f/fe/Hack_the_Box_logo.svg)  
-**AD Enumeration & Attacks**  
-**API Penetration Testing**  
-**Attacking Common Applications**  
-**Web Attacks**  
-**Windows Privilege Escalation**
-
----
-
-## Animated Badges
-
-Here are some badges with animated effects:
-
-- **Python**  
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- **Ethical Hacker**  
-  ![Ethical Hacker Badge](https://img.shields.io/badge/Ethical%20Hacker-5C9F4E?style=flat&logo=offensive-security&logoColor=white)
-
-- **TryHackMe**  
-  ![TryHackMe Badge](https://img.shields.io/badge/Certified%20Penetration%20Tester-1DA1F2?style=flat&logo=tryhackme&logoColor=white)
-
----
-
-## Animated GitHub Contribution Snake
+## 🏆 Animated Badges
 
 <div align="center">
-  ![GitHub Snake](https://github.com/your-username/your-repo/blob/output/github-contribution-grid-snake.svg)
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=FFD43B)
+![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-FF0000?style=for-the-badge&logo=ethicalhacking&logoColor=white&labelColor=000000)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)
+
 </div>
 
----
+## 🐍 GitHub Contribution Snake
 
-## How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/ouzidane-reda-a9b010295/)  
-- [Email](mailto:redaouzidan@gmail.com)
+<div align="center">
+  
+![GitHub Snake](https://github.com/your-username/your-repo/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## 📫 How to Reach Me
+
+<div align="center">
+  
+[![LinkedIn](https://www.linkedin.com/in/ouzidane-reda-a9b010295/)
+[![Email](redaouzidan@gmail.com)
+
+
+</div>
 
