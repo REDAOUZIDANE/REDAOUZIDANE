@@ -5,16 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF00F7&center=true&vCenter=true&width=500&lines=Penetration+Testing%2C+Data+Science%2C+Industrial+Engineering;Learning+by+Breaking%2C+Exploring%2C+and+Optimizing" alt="Typing SVG" />
 </div>
 
-## 🚀 What I'm Passionate About
+## What I'm Passionate About
 
 > **"Success is the sum of small efforts, repeated day in and day out."**  
 > – Robert Collier
 
-- 🎯 **Penetration Testing**: Breaking through barriers to find vulnerabilities.
+-  **Penetration Testing**: Breaking through barriers to find vulnerabilities.
 - 📊 **Data Science**: Using data to make better decisions and predictions.
 - 🛠️ **Industrial Engineering**: Optimizing systems for efficiency, sustainability, and performance.
 
-## 🔥 My Projects & Courses
+## My Projects & Courses
 
 | **Course/Project**      | **Description**                                    | **Technologies**                                      | **Demo/Link**       |
 |-------------------------|----------------------------------------------------|-------------------------------------------------------|---------------------|
