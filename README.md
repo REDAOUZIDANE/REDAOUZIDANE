@@ -23,8 +23,9 @@
 
 | **Course/Project**      | **Description**                                    | **Technologies**                                      | **Demo/Link**       |
 |-------------------------|----------------------------------------------------|-------------------------------------------------------|---------------------|
-| **[Cybersecurity Mastery](link)** | My self-paced course on advanced penetration testing, web security, and network exploits. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C85?logo=kali&logoColor=white) | [Course Link](link) |
-| **[Data Science 101](link)** | A beginner-friendly course for mastering data analysis and machine learning techniques. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) | [Course Link](link) |
+| **[Cybersecurity :alware Development ](link)** | +Ever wonder how malware is born? 🦠
+Forget the usual "defense-only" talk. It’s time to get into the real action. Dive into my Malware Development Course – where we break down how attackers build their tools, so you can learn to stop them.  | ![C++] | [Assembluy x86] (https://github.com/REDAOUZIDANE/MALWAR-DEV) ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C85?logo=kali&logoColor=white) | [Course Link](link) |
+| **[Data Science 101](link)** | A beginner-friendly course for mastering data analysis and machine learning techniques. | ![Python](https://github.com/REDAOUZIDANE/DATA-notes) ![Jupyter](https://github.com/REDAOUZIDANE/DATA-notes) | [Course Link](link) |
 | **[Exploit Dev Workshop](link)** | Hands-on workshops and guides for writing exploits and reverse engineering techniques. | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-FFCC00?logo=ida&logoColor=white) | [Workshop Link](link) |
 
 ## 🛠️ My Tech Stack & Tools
