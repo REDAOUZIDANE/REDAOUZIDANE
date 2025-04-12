@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm REDA OUZIDANE ! 👋
 
 <!-- Animated banner - create a GIF using Canva/Photoshop and upload to your repo -->
 <div align="center">
@@ -26,10 +26,8 @@
 
 ```javascript
 const myTechStack = {
-  languages: ["JavaScript", "Python", "TypeScript", "Java"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
-  backend: ["Node.js", "Express", "Django", "Flask"],
-  databases: ["MongoDB", "PostgreSQL", "Firebase"],
-  devOps: ["Docker", "AWS", "GitHub Actions"],
-  tools: ["Git", "VS Code", "Figma", "Postman"]
+  languages: ["JavaScript", "Python", "C++", "Java"],
+  frontend: [ "CSS","php"],
+  backend: ["java sc","xml"],
+  databases: [ "PostgreSQL"],
 };
