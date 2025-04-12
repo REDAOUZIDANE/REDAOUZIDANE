@@ -1,4 +1,4 @@
-# yoo wsp REDA OUZIDANE
+# Wsp mec I'm REDA OUZIDANE 
 
 <!-- Animated typing effect with vibrant color -->
 <div align="center">
