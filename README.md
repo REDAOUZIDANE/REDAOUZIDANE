@@ -22,16 +22,4 @@
 | **[Data Science 101](https://github.com/REDAOUZIDANE/DATA-notes)** | A beginner-friendly course for mastering data analysis and machine learning techniques. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) | [Course Link](https://github.com/REDAOUZIDANE/DATA-notes) |
 | **[Exploit Dev Workshop](link)** | Hands-on workshops and guides for writing exploits and reverse engineering techniques. | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-FFCC00?logo=ida&logoColor=white) | [Workshop Link](link) |
 
-## 🛠️ My Tech Stack & Tools
-
-```javascript
-const myTechStack = {
-  languages: ["JavaScript", "Python", "C/C++", "Java", "Assembly (x86/ARM)"],
-  frontend: ["React", "Tailwind CSS", "Next.js"],
-  backend: ["Node.js", "Express", "Django", "Flask"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Kali Linux", "Burp Suite", "Metasploit", "Wireshark", "Git", "Docker", "Nmap"],
-  cloud: ["AWS", "Azure"],
-  devOps: ["GitHub Actions", "CI/CD", "Terraform"],
-};
-
+<!-- Contribution graph with dynamic updates --> <div align="center"> ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=REDAOUZIDANE&theme=radical) </div>
