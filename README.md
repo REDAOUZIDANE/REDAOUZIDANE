@@ -1,6 +1,6 @@
-# Wsp mec I'm REDA OUZIDANE 
+# Wsp mec I'm  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=REDA+OUZIDANE+%F0%9F%91%BD%F0%9F%92%8E;LIMBO+%F0%9F%94%8F%E2%9A%AB%EF%B8%8F;Data+Scientist+%7C+Security+Engineer+%7C+Industrial+Optimizer+%E2%9A%99%EF%B8%8F%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=REDA+OUZIDANE+%F0%9F%91%BD%F0%9F%92%8E;LIMBO+%F0%9F%94%8F%E2%9A%AB%EF%B8%8F;Data+Scientist+%7C+Security+Engineer+%7C+Industrial+Optimizer+%E2%9A%99%EF%B8%8F%F0%9F%94%92" alt="Typing SVG" />
 </div>
 
 
