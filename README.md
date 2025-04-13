@@ -46,9 +46,8 @@
 ## ⚡ Tech Stack Superpowers
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=HELLAAA+%23FF0000%F0%9F%91%BD+YAAAA+%2300FF00%F0%9F%92%8E+WELCOM+%230000FF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=HELLAAA+YAAAA+WELCOM+%F0%9F%91%BD%F0%9F%92%8E" alt="Typing SVG" />
 </div>
-
 
 <div align="center">
   
