@@ -8,7 +8,7 @@
 ## 🔥 What I'm Passionate About
 
 > **"Security isn't about perfect defense - it's about understanding attack patterns so thoroughly that defense becomes trivial."**  
-> – Reda Ouzidane (probably)
+> – Reda Ouzidane 
 
 -  **Offensive Security**: 🏴‍☠️ "If you can't break it, you don't understand it"
 - 📊 **Data Science**: 🔍 Extracting truth from the noise
